@@ -61,7 +61,7 @@ Then open the displayed URL in your browser.
 * NASA landed a rover on Mars in 2021
 * Climate change is caused by human activities
 
-## RAG Application (Optional)
+## RAG Application 
 
 For advanced fact-checking using your own documents:
 
